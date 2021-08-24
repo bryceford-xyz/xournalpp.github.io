@@ -19,6 +19,9 @@ versions:
     links: nightly
 ---
 
-1. Unzip the downloaded archive file
-2. Run the installation program within
-3. Success!
+1. Download the zip file.
+2. Copy the Xournal++ program contained in the zip file to the Apps folder.
+3. Right-click the Xournal++ program and choose "Open”.
+4. Read the prompt and confirm that you want to use the program.
+5. Run Xournal++ like any other program.
+6. Success!
